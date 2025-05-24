@@ -47,7 +47,7 @@ uvicorn main:app --reload
 
 Once running, navigate to:
 
-👉 [http://127.0.0.1:8000/docs#/Blogs](http://127.0.0.1:8000/docs#/Blogs) for the Swagger UI.
+👉 [http://127.0.0.1:8000/docs#/Blogs](http://127.0.0.1:8000/docs) for the Swagger UI.
 
 ---
 
