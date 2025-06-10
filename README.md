@@ -34,8 +34,8 @@ This project was created to **learn and explore** FastAPI fundamentals. It cover
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Phoenixarjun/FastApi
+cd FastApi
 pip install -r requirements.txt
 ```
 
